@@ -1,7 +1,7 @@
 # Binaries
-Binaries/*.lib
-Binaries/*.pdb
-Binaries/*.dll
+/Binaries/*.lib
+/Binaries/*.pdb
+/Binaries/*.dll
 DerivedDataCache
 Intermediate
 Saved
