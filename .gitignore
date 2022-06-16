@@ -1,6 +1,7 @@
 
 Binaries/Win64/*
 !Binaries/Win64/*Server.exe*
+!Binaries/Win64/*Client.exe*
 
 # *.lib
 # *.dll
